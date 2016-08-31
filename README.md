@@ -105,6 +105,7 @@ However, as an alternative, I recommend you use [@brentvatne](https://github.com
 
 Prop              | Type     | Optional | Default     | Description
 ----------------- | -------- | -------- | ----------- | -----------
+style             | style    | Yes      |             | Custom style of the popover (shadow)
 isVisible         | bool     | Yes      | false       | Show/Hide the popover
 fromRect          | rect     | No       | {}          | Rectangle at which to anchor the popover
 displayArea       | rect     | Yes      | screen rect | Area where the popover is allowed to be displayed
